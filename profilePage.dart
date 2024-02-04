@@ -17,7 +17,7 @@ import 'package:provider/provider.dart';
 
 import 'profile_page_model.dart';
 export 'profile_page_model.dart';
-
+//user details page
 class ProfilePageWidget extends StatefulWidget {
   const ProfilePageWidget({
     Key? key,
