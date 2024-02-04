@@ -10,7 +10,7 @@ import 'package:provider/provider.dart';
 
 import 'onboarding_model.dart';
 export 'onboarding_model.dart';
-
+//last page for users
 class OnboardingWidget extends StatefulWidget {
   const OnboardingWidget({Key? key}) : super(key: key);
 
