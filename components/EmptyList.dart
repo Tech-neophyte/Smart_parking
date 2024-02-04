@@ -8,7 +8,7 @@ import 'package:provider/provider.dart';
 
 import 'empty_list_model.dart';
 export 'empty_list_model.dart';
-
+//list of the parkings
 class EmptyListWidget extends StatefulWidget {
   const EmptyListWidget({Key? key}) : super(key: key);
 
