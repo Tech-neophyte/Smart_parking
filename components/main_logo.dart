@@ -14,7 +14,7 @@ class MainLogoWidget extends StatefulWidget {
   @override
   _MainLogoWidgetState createState() => _MainLogoWidgetState();
 }
-
+//app logo
 class _MainLogoWidgetState extends State<MainLogoWidget> {
   late MainLogoModel _model;
 
