@@ -15,7 +15,7 @@ import 'package:provider/provider.dart';
 
 import 'edit_booking_model.dart';
 export 'edit_booking_model.dart';
-
+//ui mostly, data modification
 class EditBookingWidget extends StatefulWidget {
   const EditBookingWidget({
     Key? key,
