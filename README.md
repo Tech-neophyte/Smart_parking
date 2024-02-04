@@ -28,7 +28,7 @@ graph TD
 
 Check out our demo video to see the Smart Parking App in action:
 
-[![Smart Parking App Demo](demo/demo-thumbnail.png)](https://drive.google.com/drive/folders/1PND_Aug9H7k1rvf6f2x8nBZa8fkKNigs?usp=sharing)
+[![Smart Parking App Demo](demo/demo-thumbnail.png)](https://drive.google.com/file/d/16y6CNJzFN3fhK_aE-36CkjcImOB724ch/view?usp=drive_link)
 <!-- ## Preview 📷
 ![Preview of the app]([screenshots/auth.png](https://app.flutterflow.io/share/parking-management-mc2hpl))
  -->
