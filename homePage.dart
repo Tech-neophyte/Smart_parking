@@ -12,7 +12,7 @@ import 'package:provider/provider.dart';
 
 import 'home_page_model.dart';
 export 'home_page_model.dart';
-
+//ui and blocks
 class HomePageWidget extends StatefulWidget {
   const HomePageWidget({
     Key? key,
